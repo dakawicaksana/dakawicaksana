@@ -4,10 +4,18 @@
 I am a software developer with 3+ years of experience in building web applications and APIs. My expertise lies in **React**, **Laravel**, and **C#**, and I enjoy solving problems through clean and scalable code. I'm passionate about merging technology with sustainability, as demonstrated in my recent project, **[Ecobyte](https://github.com/dakawicaksana/ecobyte.git)**, which focuses on reducing food waste with innovative solutions.
 
 ### Skills
-- **Frontend Development:** React.js, JavaScript, HTML, CSS, Ant Design, Bootstrap  
-- **Backend Development:** Laravel, PHP, Python, Node.js  
-- **Tools & Platforms:** Git, Next.js, Docker, Ubuntu  
-- **Game Development:** Exploring JavaScript Canvas API for classic game development  
+- **Frontend Development:** 
+    - ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) React.js  
+    - ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/69/JavaScript-logo.png) JavaScript  
+    - ![Ant Design](https://upload.wikimedia.org/wikipedia/commons/c/c7/Ant_Design_logo.svg) Ant Design  
+    - ![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/4/47/Bootstrap_logo_2023.svg) Bootstrap  
+- **Backend Development:** 
+    - ![Laravel](https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg) Laravel  
+    - ![PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP_logo.svg) PHP  
+    - ![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg) Node.js  
+- **Tools & Platforms:** 
+    - ![Git](https://upload.wikimedia.org/wikipedia/commons/a/a7/Git-Logo.svg) Git  
+    - ![Ubuntu](https://upload.wikimedia.org/wikipedia/commons/8/87/Ubuntu_Logo_2015.svg) Ubuntu
 
 ### Projects
 #### [Ecobyte](https://github.com/dakawicaksana/ecobyte.git) 🌱  

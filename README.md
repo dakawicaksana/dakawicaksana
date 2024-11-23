@@ -1,45 +1,20 @@
-# Hi there, I'm Daka Wicaksana! 👋
+<h1 align="center">Hi 👋, I'm Daka Wicaksana</h1>
+<h3 align="center">A Student and Web Developer</h3>
 
-### About Me
-I am a software developer with 3+ years of experience in building web applications and APIs. My expertise lies in **React**, **Laravel**, and **C#**, and I enjoy solving problems through clean and scalable code. I'm passionate about merging technology with sustainability, as demonstrated in my recent project, **[Ecobyte](https://github.com/dakawicaksana/ecobyte.git)**, which focuses on reducing food waste with innovative solutions.
+- 👨‍💻 All of my projects are available at [dakawicaksana.github.io](dakawicaksana.github.io)
 
-### Skills
-- **Frontend Development:** 
-    - ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) React.js  
-    - ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/69/JavaScript-logo.png) JavaScript  
-    - ![Ant Design](https://upload.wikimedia.org/wikipedia/commons/c/c7/Ant_Design_logo.svg) Ant Design  
-    - ![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/4/47/Bootstrap_logo_2023.svg) Bootstrap  
-- **Backend Development:** 
-    - ![Laravel](https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg) Laravel  
-    - ![PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP_logo.svg) PHP  
-    - ![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg) Node.js  
-- **Tools & Platforms:** 
-    - ![Git](https://upload.wikimedia.org/wikipedia/commons/a/a7/Git-Logo.svg) Git  
-    - ![Ubuntu](https://upload.wikimedia.org/wikipedia/commons/8/87/Ubuntu_Logo_2015.svg) Ubuntu
+- 💬 Ask me about **REACT JS,LARAVEL,NEXT JS**
 
-### Projects
-#### [Ecobyte](https://github.com/dakawicaksana/ecobyte.git) 🌱  
-A platform combining technology and sustainability to reduce food waste through:  
-- Nutrition calculators  
-- Creative leftover recipes  
-- Food storage tips  
+- ⚡ Fun fact **my hobby is hiking**
 
-#### Job Seekers  
-A web app connecting job seekers with employers, featuring resume builders and dynamic job recommendations.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dakawicaksana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dakawicaksana" height="30" width="40" /></a>
+<a href="https://instagram.com/awi.dawn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awi.dawn" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/dakawicaksana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dakawicaksana" height="30" width="40" /></a>
+</p>
 
-#### SmartBell  
-A smart notification system for schools to manage schedules effectively.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### Learning Goals
-- Deepen knowledge of Laravel, including advanced Blade syntax and multi-role authentication.  
-- Explore game development with Canvas API (Pacman & Snake game logic).  
-- Enhance design skills with Bootstrap 5.3 and CSS frameworks.  
-- Learn new tools like **ngrok** for secure tunneling and deployment.
-
-### Let's Connect!
-- 💻 [Portfolio Website](dakawicaksana.github.io)
-- 🐙 [GitHub](https://github.com/dakawicaksana)  
-- 📫 Email: dakalava01@gmail.com  
-- 📱 [LinkedIn](https://linkedin.com/in/dakawicaksana)  
-
-Thanks for stopping by! 🚀
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dakawicaksana&show_icons=true&locale=en&layout=compact" alt="dakawicaksana" /></p>
